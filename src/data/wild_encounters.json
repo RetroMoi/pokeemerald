@@ -59,47 +59,47 @@
               {
                 "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_PIKACHU"
+                "species": "SPECIES_GEODUDE"
               },
               {
                 "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_CHARMANDER"
+                "species": "SPECIES_HORSEA"
               },
               {
                 "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_SQUIRTLE"
+                "species": "SPECIES_HORSEA"
               },
               {
                 "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_BULBASAUR"
+                "species": "SPECIES_HORSEA"
               },
               {
                 "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_POOCHYENA"
+                "species": "SPECIES_HORSEA"
               },
               {
                 "min_level": 2,
                 "max_level": 2,
-                "species": "SPECIES_ZIGZAGOON"
+                "species": "SPECIES_HORSEA"
               },
               {
                 "min_level": 2,
                 "max_level": 2,
-                "species": "SPECIES_ZIGZAGOON"
+                "species": "SPECIES_HORSEA"
               },
               {
                 "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_ZIGZAGOON"
+                "species": "SPECIES_HORSEA"
               },
               {
                 "min_level": 3,
                 "max_level": 3,
-                "species": "SPECIES_ZIGZAGOON"
+                "species": "SPECIES_HORSEA"
               }
             ]
           }
